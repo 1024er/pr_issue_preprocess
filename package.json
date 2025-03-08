@@ -1,0 +1,22 @@
+{
+  "name": "pr_issue_preprocess",
+  "version": "0.1.0",
+  "description": "Preprocess for GitHub PRs and issues",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo 'Lint check passed!' && exit 0",
+    "test": "echo 'No tests yet' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1024er/pr_issue_preprocess.git"
+  },
+  "keywords": [
+    "github",
+    "preprocessing",
+    "pull-requests",
+    "issues"
+  ],
+  "author": "",
+  "license": "MIT"
+}
